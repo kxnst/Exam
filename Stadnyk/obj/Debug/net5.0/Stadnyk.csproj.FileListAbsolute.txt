@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\bin\Debug\net5.0\Stadnyk.exe
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\bin\Debug\net5.0\Stadnyk.deps.json
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\bin\Debug\net5.0\Stadnyk.runtimeconfig.json
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\bin\Debug\net5.0\Stadnyk.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\bin\Debug\net5.0\Stadnyk.dll
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\bin\Debug\net5.0\ref\Stadnyk.dll
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\bin\Debug\net5.0\Stadnyk.pdb
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.AssemblyInfo.cs
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.dll
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\ref\Stadnyk.dll
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.pdb
+C:\Users\hp\source\repos\Stadnyk\Stadnyk\obj\Debug\net5.0\Stadnyk.genruntimeconfig.cache
